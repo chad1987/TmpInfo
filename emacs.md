@@ -16,3 +16,5 @@ C-c C-o	访问当前时间戳的日程表
 S-left|S-right	以天为单位调整时间戳时间
 S-up|S-down	调整光标所在时间单位；如果光标在时间戳之外，调整时间戳类型（是否在日程表中显示）
 C-c C-y	计算时间范围长度
+
+Emacs中显示图片：http://kelvinh.github.io/blog/2013/03/26/emacs-image-support-on-windows/#fn.1
