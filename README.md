@@ -17,3 +17,6 @@
 5、 选择“Software Request”
 5，即可见到下载任务，点击任务标题即可：
 6，点击下载LMT
+
+
+修剪后的照片请在外网登录 ：点击查看: http://yunpan.cn/OcFSq83HAaT7et 提取码：dfc5 
