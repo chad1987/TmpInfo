@@ -1,6 +1,6 @@
 # 日常工作记录大杂烩
 
-:monkey
+:monkey:
 
 ##Python学习记录
 
