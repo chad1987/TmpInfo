@@ -14,3 +14,8 @@
 https://shiroha.torishirojima.com/api/v1/client/subscribe?token=c40ae7349e90ff6b1aaaa94a9b74e9ed&flag=shadowrocket
 
 
+
+
+https://x.com/Zenzhe99/status/2046005958300868852/video/1 
+
+
